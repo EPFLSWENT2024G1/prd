@@ -16,14 +16,17 @@ We should be viewed simply as a facilitator to lend/borrow items to others. This
 ## Adoptions, Scalability and Availability
 
 Adoption:
+
 - Users should have the option to enable push notifications to know when an item is requested or to be updated on their loan requests
   
 - The application’s user interface must include easily accessible settings for customizing notification preferences.
 
 Scalability:
+
 - We expect the traffic to be rather low/medium all year long even around events there shouldn’t be too much events overlapping themselves so the loan request should not be too high. However, in case of high traffic the system should maintain optimal performance and response time.
   
 Availability:
+
 - The application must achieve a minimum uptime of 99.9%, ensuring consistent availability to users.
   
 - Regular data backups and a robust disaster recovery plan must be in place to enable quick restoration of services in case of system failures
