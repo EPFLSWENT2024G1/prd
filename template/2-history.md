@@ -6,12 +6,11 @@ Another main issue that we currently have is the backend security. Indeed, we ar
 In order to have a MVP, we would have to be able to manage our inventory offline and secure the database, by using Google Cloud Functions. We would also need to implement some other features, like the possibility to loan multiple objects in one loan, the possibility to group items in our inventory, or adding personalized categories.
 
 
+[comment]: <> (Maximum 1 page*)
 
-*Maximum 1 page*
+[comment]: <> (Describe the V1 POC as planned by Sprint10.)
 
-*Describe the V1 POC as planned by Sprint10.*
+[comment]: <> (*What did you learn?*)
 
-*What did you learn?*
-
-*What is missing to bridge from PoC to MVP?*
+[comment]: <> (*What is missing to bridge from PoC to MVP?*)
 
