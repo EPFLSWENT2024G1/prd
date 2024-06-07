@@ -32,7 +32,7 @@ User story 9:
 As a lender, I want to be able to add/remove friends so I can lend my items only to the people I know
 User story 10:
 As a user, I want to be able to evaluate another user
- User story 11:
+User story 11:
 As a user, I want to be able to leave comments on another user
 User story 12:
 As a user, I want to be able to edit my profile
