@@ -67,7 +67,8 @@ User Adoption and Engagement:
 - Achieve a retention rate of at least 60% in the following semester
   
 
-Feedback and Satisfaction
+Feedback and Satisfaction:
+
 - Achieve a minimum average rating of 4 out of 5 stars on app stores within the first two months of launch
   
 - Do quarterly survey to gather feedback and recommendations for the app
