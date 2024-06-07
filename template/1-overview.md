@@ -6,9 +6,12 @@ Partagix simplifies the process of item management through a user-friendly inven
 
 The app is free for everyone. The main target personas are:
 1. Any students
-2. Associations & Small Enterprises with simple logistic needs
-3. Individuals having unused objects
-4. Individuals wanting to borrow objects for occasional use
+  
+3. Associations & Small Enterprises with simple logistic needs
+
+5. Individuals having unused objects
+   
+7. Individuals wanting to borrow objects for occasional use
 
 Our application employs a split-app model with cloud synchronization to ensure real-time updates on inventories and reservations, supported by Firebase for backend management and push notifications. Partagix also offers offline functionalities, enabling users to manage their storage locally and synchronize changes once connected to the network. The app utilizes the device's camera for QR code scanning and GPS for location-based search results.
 
