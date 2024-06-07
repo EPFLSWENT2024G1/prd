@@ -1,8 +1,11 @@
 # Analysis of the Situation
 
 There are different kinds of competing products : 
+
 - Foundation lending objects to individuals on a monthly/yearly membership basis.
+
 - Local peer-to-peer object lending solutions, most of them promote the zero-waste goal and are handled by municipality-sponsored associations.
+
 - Peer-to-peer selling platforms, which does implement user-friendly applications, which offer a new life to unused objects, instead of throwing them away.
 
 The two first kinds are not well marketed and don’t offer any user-friendly applications, which limits their impact and their concurrence potential.
