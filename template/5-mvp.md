@@ -63,3 +63,11 @@ Exclusion of the gamification: The idea would be to attribute points to users pr
 Exclusion of the possibility to rent out your items on the app: the app was first thought of as a way to lend/borrow items for free. However, we are aware that it would attract more people if they could also rent their objects. This feature won’t be our first priority but is still something we have planned to implement
 
 
+[comment]: <> (*Describe the value proposition and argue that it is:*)
+
+[comment]: <> (*1. Easy to communicate*)
+
+[comment]: <> (*2. Defensible*)
+
+[comment]: <> (*3. Relevant*)
+
