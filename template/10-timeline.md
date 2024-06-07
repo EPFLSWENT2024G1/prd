@@ -2,6 +2,7 @@
 We had 14 weeks to produce an MVP. The initial four weeks were dedicated to selecting and defining the project. Following this, we spent one week setting up our environment and preparing for production. The remaining nine weeks were focused on developing the MVP. Our progress was guided by four key milestones: the first two milestones were set at three-week intervals, and the remaining two milestones were set at two-week intervals, and by 10 sprints.
 
 Milestone 1:
+
 Sprint 1: 
 Overview of the app, by starting the design on Figma
 Set up the tools: CI, Firebase, Scrum board, and Android project
