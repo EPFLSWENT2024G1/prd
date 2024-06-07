@@ -36,8 +36,11 @@ The data management of the MVP is very primitive, as we focused on developing a 
 
 Our data management can be split into the following 4 steps:
 - Firebase: The actual database that stores all our data, with the data of our different objects (users, items, loans, item categories) in Firestore, and all our images (user profile pictures, user-defined items pictures) in the “Storage” section.
-- Our “Database.kt” class: A Kotlin class at the heart of our app, which acts as an interface between the Firebase functionalities (Firestore data tables and Storage images) and the other parts of our app that read or write data to and from the database. 
+  
+- Our “Database.kt” class: A Kotlin class at the heart of our app, which acts as an interface between the Firebase functionalities (Firestore data tables and Storage images) and the other parts of our app that read or write data to and from the database.
+  
 - App Local Cache: Currently only used to cache images, this cache is used by the Database.kt class to reduce the number of calls to Firebase.
+  
 - ViewModels: Classes that act as an interface between the UI and the Database.kt class. This allows us to implement various data management mechanisms such as asynchronous database calls that do not freeze the main thread while waiting for the answer. ViewModels also perform new calls to the database if the user performs certain actions that require changing the elements we display (eg. filtering items). 
 
 While the app currently doesn’t implement satisfactory data privacy and protection, the app was designed to make this possible with minimal changes once we are past the MVP and want to launch a product on the market. This is why the “Database.kt” file centralizes all data management: implementing a new, more robust data management only requires us to change this interface. 
