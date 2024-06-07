@@ -21,6 +21,7 @@ Adoption:
 
 Scalability:
 - We expect the traffic to be rather low/medium all year long even around events there shouldn’t be too much events overlapping themselves so the loan request should not be too high. However, in case of high traffic the system should maintain optimal performance and response time.
+  
 Availability:
 - The application must achieve a minimum uptime of 99.9%, ensuring consistent availability to users.
 - Regular data backups and a robust disaster recovery plan must be in place to enable quick restoration of services in case of system failures
