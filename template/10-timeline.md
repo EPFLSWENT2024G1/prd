@@ -44,6 +44,7 @@ Worked on milestone requirements: add badges on read me, update figma, update ar
 At this point, we had set up a way to store images in the database, and could generate QR codes for each item.
 
 Milestone 3:
+
 Sprint 7: 
 Worked on new screens
 Added functionalities to old screens
@@ -61,6 +62,7 @@ Worked on milestone requirements: set up this PRD, updated Figma, architecture d
 During these 2 weeks, we added deep-link to the QR code and started going over some finished screens to have a unified design.
 
 Milestone 4:
+
 Sprint 9:
 Continued the notification system
 Fixed bugs and little issues to start polishing the application
