@@ -1,5 +1,7 @@
 # Functional Requirements
 
+![Architecture diagram](../architecture_diagram_partagix.jpg)
+
 Management of your items:
 - Creating/deleting/editing an item (name, description, picture, visibility, quantity, etc..)
 - Being able to box items, a box is like folders in your computer to facilitate storage
