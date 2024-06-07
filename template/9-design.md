@@ -35,6 +35,7 @@ Offline features are primordial, that’s why our backend has been developed in 
 The data management of the MVP is very primitive, as we focused on developing a complete and functional prototype for a Proof of Concept, and not on user data protection or database efficiency.
 
 Our data management can be split into the following 4 steps:
+
 - Firebase: The actual database that stores all our data, with the data of our different objects (users, items, loans, item categories) in Firestore, and all our images (user profile pictures, user-defined items pictures) in the “Storage” section.
   
 - Our “Database.kt” class: A Kotlin class at the heart of our app, which acts as an interface between the Firebase functionalities (Firestore data tables and Storage images) and the other parts of our app that read or write data to and from the database.
