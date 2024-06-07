@@ -14,3 +14,12 @@ Our application employs a split-app model with cloud synchronization to ensure r
 
 The goal of the MVP for Partagix is to develop a functional and user-friendly mobile application that effectively facilitates inventory management, peer-to-peer item sharing, and community engagement ; by focusing on core features such as cataloging items with QR codes, enabling easy lending and borrowing, and providing a reliable rating system. The MVP aims to validate the concept and attract a substantial user base, in order to obtain valuable feedback to guide future expansions and optimizations.
 
+# The Value Proposition
+
+*Describe the value proposition and argue that it is:*
+
+*1. Easy to communicate*
+
+*2. Defensible*
+
+*3. Relevant*
