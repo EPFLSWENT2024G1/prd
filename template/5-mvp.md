@@ -12,32 +12,46 @@ Partagix addresses three high-level scenarios to enhance user experience and pro
 
 - User story 1:
 As a user, I'd like to create an account to view and manage all my listings
+
 - User story 2:
 As a lender, I would like to create an item for listing and add various information about it
+
 - User story 3:
 As an inventory owner, I would like to be able to edit my items so I can change the information easily
+
 - User story 4:
 As an inventory owner, I would like to be able to quickly search for items, using a search bar and filters
+
 - User story 5:
 As a lender, I want to see a list of people who marked themselves as "interested in my item" so that I can choose who to lend to
+
 - User story 6:
 As a user, I'd like to make a loan request so I can try and borrow the items I need
+
 - User story 6bis:
 As a user, I'd like to manage my loan requests so I can cancel or see the outgoing requests
+
 - User story 7:
 As an inventory owner, I want to be able to generate QR codes for all my items and track them easily.
+
 - User story 8:
 As a user, I want to be able to contact other users, so I can get more information easily
+
 - User story 9:
 As a lender, I want to be able to add/remove friends so I can lend my items only to the people I know
+
 - User story 10:
 As a user, I want to be able to evaluate another user
+
 - User story 11:
 As a user, I want to be able to leave comments on another user
+
 - User story 12:
 As a user, I want to be able to edit my profile
+
 - User story 13:
 As a user, I want to be able to manage the app settings
+
 - User story 14:
 As a user, I'd like to be able to scan an item so I can have info on the item/loan
 
