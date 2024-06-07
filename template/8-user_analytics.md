@@ -11,12 +11,15 @@ Usage Metrics:
 - Conversion Rates: From app download to active usage.
 - User Retention: Rate of returning users over time.
 - Drop-off rate: what UI transitions have a high drop-off
+  
 Success Criteria:
 - High user engagement/retention rates - more than 60% returning users and low drop-off rates 
 - Low crash rates and quick resolution of identified issues.
+  
 User Analytics:
 - Implement Google Analytics for behavioral tracking and Firebase Crash-lytics for stability monitoring.
 - Anonymize data to comply with privacy standards.
+  
 A/B Testing Ideas:
 - Test different navigation flows to find the most user-friendly layout.
 - Experiment with different formats of displaying inventory and items
