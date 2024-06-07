@@ -59,14 +59,21 @@ As a user, I'd like to be able to scan an item so I can have info on the item/lo
 ## Success Criteria
 
 User Adoption and Engagement:
+
 - Target to onboard at least 50% of the associations on the EPFL campus
+
 - Target to be used in at least 30% of the EPFL events
+  
 - Achieve a retention rate of at least 60% in the following semester
+  
 
 Feedback and Satisfaction
 - Achieve a minimum average rating of 4 out of 5 stars on app stores within the first two months of launch
+  
 - Do quarterly survey to gather feedback and recommendations for the app
+  
 - Implement at least half of the recommendations/features (if they make sense) we got from the surveys
+  
 - Fix any bug that may be found by users as fast as possible
 
 
